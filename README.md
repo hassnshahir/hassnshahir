@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hassnshahir
+- 👀 I’m interested in Artificial intelligence, and BCI.
+- 🌱 I’m currently learning Python.
+- 📫 Find me on twitter by @HassnShahir
